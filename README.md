@@ -19,44 +19,15 @@ Strengthening expertise in SQL and Excel for efficient data analysis
 Continuously refining my ability to connect data with business outcomes
 
  # Tools & Technologies
+Data Visualization: Power BI and Tableau
 
-I work with a combination of tools that cover the complete data analysis lifecycle—from raw data to business insights:
+Database Management: SQL
 
- Data Visualization & Business Intelligence
+Data Analysis & Reporting: Microsoft Excel
 
-Power BI: Designing dynamic dashboards, creating data models, writing DAX measures, and delivering interactive reports that enable stakeholders to explore insights easily
+Programming (Foundational): Python
 
- Data Handling & Analysis
-
-Microsoft Excel: Advanced formulas, pivot tables, data cleaning, and exploratory data analysis for quick insights and reporting
-
-SQL: Writing optimized queries for data extraction, filtering, aggregation, and joining multiple datasets
-
- Data Processing & Automation
-
-Python (Basic): Using libraries for data manipulation and preprocessing to handle structured datasets efficiently
-
- Core Analytical Capabilities
-
-Data Cleaning & Transformation (Power Query, Excel, SQL)
-
-Data Modeling & Relationship Building
-
-Dashboard Design & User Experience Optimization
-
-KPI Tracking & Business Performance Analysis
-
-Insight Generation & Data Storytelling
-
-# Why You Should Check My Projects
-
-Each project I build focuses on solving a real problem, not just showcasing tools. You’ll find:
-
-Clear business context and objectives
-
-Well-structured and interactive dashboards
-
-Insights that go beyond visuals to provide decision-making value
+Core Competencies: Data Cleaning, Data Transformation, Data Modeling, Dashboard Development, Business Analysis
 
 # Contact Information
 
